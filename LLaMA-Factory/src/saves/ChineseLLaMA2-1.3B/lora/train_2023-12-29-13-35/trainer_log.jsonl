@@ -1,0 +1,4 @@
+{"current_steps": 5, "total_steps": 15, "loss": 3.3366, "eval_loss": null, "predict_loss": null, "reward": null, "learning_rate": 3.7500000000000003e-05, "epoch": 1.0, "percentage": 33.33, "elapsed_time": "0:02:06", "remaining_time": "0:04:13"}
+{"current_steps": 10, "total_steps": 15, "loss": 3.3301, "eval_loss": null, "predict_loss": null, "reward": null, "learning_rate": 1.2500000000000006e-05, "epoch": 2.0, "percentage": 66.67, "elapsed_time": "0:04:21", "remaining_time": "0:02:10"}
+{"current_steps": 15, "total_steps": 15, "loss": 3.2822, "eval_loss": null, "predict_loss": null, "reward": null, "learning_rate": 0.0, "epoch": 3.0, "percentage": 100.0, "elapsed_time": "0:06:30", "remaining_time": "0:00:00"}
+{"current_steps": 15, "total_steps": 15, "loss": null, "eval_loss": null, "predict_loss": null, "reward": null, "learning_rate": null, "epoch": 3.0, "percentage": 100.0, "elapsed_time": "0:06:30", "remaining_time": "0:00:00"}
